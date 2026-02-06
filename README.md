@@ -3,7 +3,7 @@
 Interface web + moteur AIML en PHP, basé sur un travail de portage à partir du projet initial RebeccaAIML.
 
 **Version :** `v0.0.1`  
-**Démo en ligne :** `https://chatbot.timecaps.fr`
+[![Demo](https://img.shields.io/badge/Démo-en%20ligne-brightgreen)](https://chatbot.timecaps.fr)
 
 ![Interface](assets/interface.png)
 
