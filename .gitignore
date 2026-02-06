@@ -1,0 +1,27 @@
+### OS / Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+### Env / Secrets
+.env
+.env.*
+
+### Logs
+logs/
+*.log
+
+### Cache / Temp
+cache/
+tmp/
+*.tmp
+*.swp
+
+### PHP tooling
+vendor/
+composer.lock
+
+### Project-specific
+scripts/.chatbot_test_cookies.txt
